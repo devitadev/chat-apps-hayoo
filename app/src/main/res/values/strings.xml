@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatApps Hayoo!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="MAPS_API_KEY">AIzaSyCsoP3kPL5mmbL8w1ddFZw1HWlNmh_1KiA</string>
+</resources>

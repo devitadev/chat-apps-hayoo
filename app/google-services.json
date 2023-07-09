@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1085087847629",
+    "project_id": "hayoo-a3ace",
+    "storage_bucket": "hayoo-a3ace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085087847629:android:4e28146bbee9b5f9d2c584",
+        "android_client_info": {
+          "package_name": "com.temp.chatapps_hayoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085087847629-9lnskp2elkn5c01a1i10gmkispsca8ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-xdmZz5WQRvF35T5f2ejmkT-7bQwB8u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085087847629-9lnskp2elkn5c01a1i10gmkispsca8ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085087847629:android:0b9039f7f2821a2ed2c584",
+        "android_client_info": {
+          "package_name": "com.temp.hayoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085087847629-9lnskp2elkn5c01a1i10gmkispsca8ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-xdmZz5WQRvF35T5f2ejmkT-7bQwB8u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085087847629-9lnskp2elkn5c01a1i10gmkispsca8ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
